@@ -46,11 +46,11 @@
         "ptr_math-v0_3_0": "ptr_math-v0_3_0"
       },
       "locked": {
-        "lastModified": 1647068877,
-        "narHash": "sha256-inWSNblrD5z+zP1YxbxW0lpwNi9/99AnFBpIjU5rvUM=",
+        "lastModified": 1647113522,
+        "narHash": "sha256-jSTG3um3L9zlULIN9pQmQuGyEIRzH1GwZzQT/j2d150=",
         "owner": "nim-nix-pkgs",
         "repo": "ptr_math",
-        "rev": "fbf903d2cc9111ab9e0021dc1506f72457bf9ce6",
+        "rev": "e2368e99754e5b847337780c9bf4fe659e58991a",
         "type": "github"
       },
       "original": {
@@ -73,13 +73,20 @@
         "src-ptr_math-main": "src-ptr_math-main"
       },
       "locked": {
-        "narHash": "sha256-xAGOCh3sRvX2trXlnr9MEROdKJn0m4IfVJhippejarM=",
-        "path": "./main",
-        "type": "path"
+        "dir": "main",
+        "lastModified": 1647113522,
+        "narHash": "sha256-jSTG3um3L9zlULIN9pQmQuGyEIRzH1GwZzQT/j2d150=",
+        "owner": "nim-nix-pkgs",
+        "repo": "ptr_math",
+        "rev": "e2368e99754e5b847337780c9bf4fe659e58991a",
+        "type": "github"
       },
       "original": {
-        "path": "./main",
-        "type": "path"
+        "dir": "main",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "ptr_math",
+        "type": "github"
       }
     },
     "ptr_math-v0_0_1": {
@@ -95,13 +102,20 @@
         "src-ptr_math-v0_0_1": "src-ptr_math-v0_0_1"
       },
       "locked": {
-        "narHash": "sha256-XrYBI72Q1VY4ij2Ov94qwtXkhYmeMMNXz7ueS5V25AA=",
-        "path": "./v0_0_1",
-        "type": "path"
+        "dir": "v0_0_1",
+        "lastModified": 1647113522,
+        "narHash": "sha256-jSTG3um3L9zlULIN9pQmQuGyEIRzH1GwZzQT/j2d150=",
+        "owner": "nim-nix-pkgs",
+        "repo": "ptr_math",
+        "rev": "e2368e99754e5b847337780c9bf4fe659e58991a",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_0_1",
-        "type": "path"
+        "dir": "v0_0_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "ptr_math",
+        "type": "github"
       }
     },
     "ptr_math-v0_2_0": {
@@ -117,13 +131,20 @@
         "src-ptr_math-v0_2_0": "src-ptr_math-v0_2_0"
       },
       "locked": {
-        "narHash": "sha256-NXZYas7pu3nO3Pj88acqYyqpM10Emif9TwtUI+yQN0g=",
-        "path": "./v0_2_0",
-        "type": "path"
+        "dir": "v0_2_0",
+        "lastModified": 1647113522,
+        "narHash": "sha256-jSTG3um3L9zlULIN9pQmQuGyEIRzH1GwZzQT/j2d150=",
+        "owner": "nim-nix-pkgs",
+        "repo": "ptr_math",
+        "rev": "e2368e99754e5b847337780c9bf4fe659e58991a",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_2_0",
-        "type": "path"
+        "dir": "v0_2_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "ptr_math",
+        "type": "github"
       }
     },
     "ptr_math-v0_3_0": {
@@ -139,13 +160,20 @@
         "src-ptr_math-v0_3_0": "src-ptr_math-v0_3_0"
       },
       "locked": {
-        "narHash": "sha256-SwJsFr4r8/deACwc6nZ7Rf7lfa5lWJeK1ESeM+GgZD8=",
-        "path": "./v0_3_0",
-        "type": "path"
+        "dir": "v0_3_0",
+        "lastModified": 1647113522,
+        "narHash": "sha256-jSTG3um3L9zlULIN9pQmQuGyEIRzH1GwZzQT/j2d150=",
+        "owner": "nim-nix-pkgs",
+        "repo": "ptr_math",
+        "rev": "e2368e99754e5b847337780c9bf4fe659e58991a",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_3_0",
-        "type": "path"
+        "dir": "v0_3_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "ptr_math",
+        "type": "github"
       }
     },
     "root": {
