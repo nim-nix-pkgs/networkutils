@@ -70,11 +70,11 @@
     "src-networkutils-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1645373509,
-        "narHash": "sha256-EdK2S1kiijYbr96EEpHj/xNjvniCaTLDqsVGHIwK6Ws=",
+        "lastModified": 1648132797,
+        "narHash": "sha256-NarMiVQGO/c4JGvPda9iUsrkOQp8QpH5QNVC3cWs9II=",
         "owner": "Q-Master",
         "repo": "networkutils.nim",
-        "rev": "a2674ccc68cbeaefb0da2394e45c0752019b7ec5",
+        "rev": "282f8b1a876fdaff8b536b31f3b687d99ca6c922",
         "type": "github"
       },
       "original": {
