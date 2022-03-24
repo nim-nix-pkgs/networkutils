@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1648108006,
-        "narHash": "sha256-B5r51PG7MCOd1nmlxBKbHBKpdkWcignBlpC4XhAhEE8=",
+        "lastModified": 1648163501,
+        "narHash": "sha256-xDrM6KLjQDel2+L3YfcNaVPmmr8dG7KjEAqBSlQX+pM=",
         "owner": "nim-nix-pkgs",
         "repo": "ptr_math",
-        "rev": "1966fa8fcc132703621ac103b36aef9117b3dc0f",
+        "rev": "8e9da23d7e57512aa83b028fcf457b83726dd451",
         "type": "github"
       },
       "original": {
