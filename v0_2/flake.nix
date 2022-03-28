@@ -11,7 +11,6 @@
   inputs.src-networkutils-v0_2.ref   = "refs/tags/v0.2";
   inputs.src-networkutils-v0_2.owner = "Q-Master";
   inputs.src-networkutils-v0_2.repo  = "networkutils.nim";
-  inputs.src-networkutils-v0_2.dir   = "";
   inputs.src-networkutils-v0_2.type  = "github";
   
   inputs."ptr_math".owner = "nim-nix-pkgs";
