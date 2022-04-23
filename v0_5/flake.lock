@@ -64,22 +64,22 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
         "ptr_math": "ptr_math",
-        "src-networkutils-master": "src-networkutils-master"
+        "src-networkutils-v0_5": "src-networkutils-v0_5"
       }
     },
-    "src-networkutils-master": {
+    "src-networkutils-v0_5": {
       "flake": false,
       "locked": {
-        "lastModified": 1648588096,
-        "narHash": "sha256-x4eF8z6q+4O8luGEc5Yr1dTYik8yo+f2+wGCSzzzdzg=",
+        "lastModified": 1648468912,
+        "narHash": "sha256-L58FYVfll+mCkKeuGIr5SoMy5FywolIPFFZp1A2wtiQ=",
         "owner": "Q-Master",
         "repo": "networkutils.nim",
-        "rev": "361d7c56692917088ee307c91da223ccc700b9d7",
+        "rev": "14b2a49b7ebe84370d1d3cf7a20ec36ea3132509",
         "type": "github"
       },
       "original": {
         "owner": "Q-Master",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.5",
         "repo": "networkutils.nim",
         "type": "github"
       }
