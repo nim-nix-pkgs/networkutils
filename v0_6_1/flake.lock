@@ -65,10 +65,10 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
         "ptr_math": "ptr_math",
-        "src-networkutils-master": "src-networkutils-master"
+        "src-networkutils-v0_6_1": "src-networkutils-v0_6_1"
       }
     },
-    "src-networkutils-master": {
+    "src-networkutils-v0_6_1": {
       "flake": false,
       "locked": {
         "lastModified": 1657201249,
@@ -80,7 +80,7 @@
       },
       "original": {
         "owner": "Q-Master",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.6.1",
         "repo": "networkutils.nim",
         "type": "github"
       }
