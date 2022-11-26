@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1669431325,
-        "narHash": "sha256-EslsZ7fOscyvnmgR+r6q40fBoSQa1BBIKKTfqH/eCjg=",
+        "lastModified": 1669438257,
+        "narHash": "sha256-67xRwSarKFrfYJEXQ16YnTAyKv3sgIEl0ySsjYb2/Rg=",
         "owner": "nim-nix-pkgs",
         "repo": "ptr_math",
-        "rev": "c381cabb12dac884ba9d0ba67f023a5467265978",
+        "rev": "d87813ef6a7888008aef0ce95a1fb1217d655182",
         "type": "github"
       },
       "original": {
